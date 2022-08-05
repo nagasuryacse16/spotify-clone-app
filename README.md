@@ -1,3 +1,17 @@
+In this , i have used 
+#User authentication
+#Spotify API
+#Responsive design
+#Material UI for icons
+#React Context API
+#React Hooks
+
+Step 1: Creating the new react app in vs code and sign in to "Spotify developers" to get "client id" by creating the new project.
+Step 2: Building the login screen (on clicking the login button, it will redirect to the spotify authorization page. Once authorized, It will redirect again to home           page once the user logged in).
+Step 3: Building the data layer component to overcome "prop drilling" (CONTEXT API). Pushing the spotify data to the data layer and we can retreive the data from any           component in tree.
+Step 4: Building the player component (Sidebar, Body, Footer) by fetching the data from context api.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
